@@ -1,9 +1,9 @@
 # Sign Language Detection using Deep Learning
 
 ## Project Overview
-This project focuses on real-time sign language detection using deep learning. It has two versions:
-- **V1 (CNN-based)**: Uses a Convolutional Neural Network (CNN) trained directly on images without annotations.
-- **V2 (MobileNetV2-based)**: Utilizes transfer learning with MobileNetV2 and a heuristic-based decision system for better accuracy.
+This project focuses on real-time sign language detection using deep learning. 
+**V2 (MobileNetV2-based)**: Utilizes transfer learning with MobileNetV2 and a heuristic-based decision system for better accuracy.
+![](https://github.com/prabhathmummaneni/Real-time-Fingerspelling-sign-Language-Recognition/blob/2df430082177b44d3f7d2dcb421e20b0c2bc39bc/SLRFlow.png)
 
 The model takes input from a webcam, predicts the sign being performed, and matches it to a predefined dictionary of words.
 
